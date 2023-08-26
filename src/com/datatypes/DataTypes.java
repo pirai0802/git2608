@@ -14,6 +14,9 @@ public class DataTypes {
 		long ph = 9940476661l;
 		System.out.println("My Phone No is "+ph);
 		
+		long ph1=7416977001l;
+		System.out.println("Phone no is "+ph1);
+		
 		float mark = 87.3249876f;
 		System.out.println("My Mark is "+mark);
 		
